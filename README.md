@@ -1,2 +1,2 @@
 # ABDIV
-This repository is used for sharing the codes related to Andzej's draft
+Run tenmul7_nn_completion.py for the demonstration of tensor completion. Note that the JAX module is required.
